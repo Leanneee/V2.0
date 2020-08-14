@@ -1,0 +1,19 @@
+---
+layout: page
+title: "V2.0"
+---
+
+An inarguably well-designed [Jekyll](http://jekyllrb.com) theme by [Shujon Shikto](https://iturbi.net).
+
+
+## Quick Start
+
+This theme is, itself, a Jekyll blog, meaning the code base you see has everything you need to run a Jekyll powered blog!
+
+To get started quickly, follow the instructions below:
+
+1. Click the `Fork` button at the top of [the repository](https://github.com/Leanneee/V2.0/);
+2. Go to your forked repo's `Settings` screen;
+3. Scroll down to the `GitHub Pages` section;
+4. Under `Source`, select the `Master` branch;
+5. Hit `Save`.
